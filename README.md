@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0162-find-peak-element) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0067-add-binary) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
