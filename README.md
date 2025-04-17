@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
+| [3371-harshad-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3371-harshad-number) |
 ## Greedy
 |  |
 | ------- |
