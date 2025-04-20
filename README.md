@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0231-power-of-two) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
 | ------- |
