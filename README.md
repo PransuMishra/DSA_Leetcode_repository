@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0231-power-of-two) |
+| [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
 | [3371-harshad-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3371-harshad-number) |
 ## Greedy
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
 |  |
