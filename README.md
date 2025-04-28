@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2350-find-closest-number-to-zero) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
 |  |
