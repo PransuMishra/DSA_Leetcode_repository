@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0540-single-element-in-a-sorted-array) |
 | [0598-range-addition-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1031-add-to-array-form-of-integer) |
 | [1293-three-consecutive-odds](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1293-three-consecutive-odds) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0598-range-addition-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2249-count-the-hidden-sequences) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
