@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1646-kth-missing-positive-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2249-count-the-hidden-sequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2249-count-the-hidden-sequences) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2350-find-closest-number-to-zero) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0202-happy-number) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0067-add-binary) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
