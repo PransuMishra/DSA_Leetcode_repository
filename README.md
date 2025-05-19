@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2350-find-closest-number-to-zero) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3321-type-of-triangle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
+| [3321-type-of-triangle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3371-harshad-number) |
 ## Greedy
 |  |
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0628-maximum-product-of-three-numbers) |
+| [3321-type-of-triangle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
