@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0136-single-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0202-happy-number) |
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [3321-type-of-triangle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3321-type-of-triangle) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
