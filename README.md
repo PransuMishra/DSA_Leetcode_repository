@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2350-find-closest-number-to-zero) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
+| [3194-find-words-containing-character](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
