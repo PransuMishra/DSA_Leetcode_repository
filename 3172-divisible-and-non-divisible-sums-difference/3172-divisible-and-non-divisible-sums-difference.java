@@ -13,3 +13,4 @@ class Solution {
         return diff;
     }
 }
+// This is first code who is run in firt time :
