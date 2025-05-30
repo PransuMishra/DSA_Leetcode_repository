@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0162-find-peak-element) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0202-happy-number) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [3321-type-of-triangle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3321-type-of-triangle) |
 ## Matrix
