@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1078-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
@@ -165,4 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
