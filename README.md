@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0171-excel-sheet-column-number) |
+| [0796-rotate-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0796-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
