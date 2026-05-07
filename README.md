@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3321-type-of-triangle) |
+| [3660-jump-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0053-maximum-subarray) |
 | [0396-rotate-function](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0788-rotated-digits) |
+| [3660-jump-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3660-jump-game-ix) |
 ## Recursion
 |  |
 | ------- |
