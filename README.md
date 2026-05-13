@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1646-kth-missing-positive-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1646-kth-missing-positive-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1914-cyclically-rotating-a-grid) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0217-contains-duplicate) |
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2249-count-the-hidden-sequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2249-count-the-hidden-sequences) |
 ## Sorting
 |  |
