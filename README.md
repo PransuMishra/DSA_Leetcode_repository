@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2350-find-closest-number-to-zero) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2784-check-if-array-is-good) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1646-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0202-happy-number) |
 | [1861-rotating-the-box](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1861-rotating-the-box) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2540-minimum-common-value](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting
