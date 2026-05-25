@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0796-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3660-jump-game-ix) |
 ## Recursion
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [2249-count-the-hidden-sequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2249-count-the-hidden-sequences) |
 ## Sorting
 |  |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
