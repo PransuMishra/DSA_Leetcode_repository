@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3093-longest-common-suffix-queries) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3161-block-placement-queries](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3161-block-placement-queries) |
 | [3194-find-words-containing-character](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3194-find-words-containing-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3321-type-of-triangle) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1646-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3161-block-placement-queries) |
 ## String
 |  |
 | ------- |
@@ -309,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
