@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3371-harshad-number) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3161-block-placement-queries) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
