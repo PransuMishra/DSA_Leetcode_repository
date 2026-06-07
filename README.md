@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2126-destroying-asteroids](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2249-count-the-hidden-sequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2249-count-the-hidden-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2784-check-if-array-is-good) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0145-binary-tree-postorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0145-binary-tree-postorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Database
 |  |
 | ------- |
