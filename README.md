@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
 | ------- |
