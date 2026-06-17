@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3194-find-words-containing-character) |
 | [3612-process-string-with-special-operations-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
