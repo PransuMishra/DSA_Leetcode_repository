@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [2249-count-the-hidden-sequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2249-count-the-hidden-sequences) |
 | [2574-left-and-right-sum-differences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Sorting
 |  |
 | ------- |
