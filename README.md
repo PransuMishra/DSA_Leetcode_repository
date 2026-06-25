@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0053-maximum-subarray) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,11 +258,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1189-maximum-number-of-balloons) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2249-count-the-hidden-sequences) |
 | [2574-left-and-right-sum-differences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3161-block-placement-queries](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -396,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
