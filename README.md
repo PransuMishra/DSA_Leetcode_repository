@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2126-destroying-asteroids](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1189-maximum-number-of-balloons) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
