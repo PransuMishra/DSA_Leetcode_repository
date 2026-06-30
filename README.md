@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0796-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1078-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 ## Binary Indexed Tree
 |  |
