@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1031-add-to-array-form-of-integer) |
 | [1293-three-consecutive-odds](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1293-three-consecutive-odds) |
+| [1301-number-of-paths-with-max-score](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1345-jump-game-iv) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0053-maximum-subarray) |
 | [0396-rotate-function](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0073-set-matrix-zeroes) |
+| [1301-number-of-paths-with-max-score](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1914-cyclically-rotating-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2812-find-the-safest-path-in-a-grid) |
