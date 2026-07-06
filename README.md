@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1031-add-to-array-form-of-integer) |
+| [1288-remove-covered-intervals](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1306-jump-game-iii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0628-maximum-product-of-three-numbers) |
+| [1288-remove-covered-intervals](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1833-maximum-ice-cream-bars) |
