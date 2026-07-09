@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0061-rotate-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Breadth-First Search
