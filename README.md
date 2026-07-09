@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Breadth-First Search
