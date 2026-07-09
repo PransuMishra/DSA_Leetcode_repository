@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0876-middle-of-the-linked-list) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1189-maximum-number-of-balloons) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0876-middle-of-the-linked-list) |
