@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0234-palindrome-linked-list) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1288-remove-covered-intervals) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0237-delete-node-in-a-linked-list) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Union-Find
