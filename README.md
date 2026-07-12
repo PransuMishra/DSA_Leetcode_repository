@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1345-jump-game-iv) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1833-maximum-ice-cream-bars) |
