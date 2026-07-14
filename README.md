@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3321-type-of-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3620-network-recovery-pathways) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3321-type-of-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3371-harshad-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3371-harshad-number) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3660-jump-game-ix) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
 |  |
