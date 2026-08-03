@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1646-kth-missing-positive-number) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0877-stone-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1031-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
 | [1840-maximum-building-height](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1840-maximum-building-height) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -596,4 +599,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
