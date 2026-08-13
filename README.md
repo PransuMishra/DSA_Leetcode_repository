@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2249-count-the-hidden-sequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2249-count-the-hidden-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -654,4 +657,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
