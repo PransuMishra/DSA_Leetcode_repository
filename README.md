@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2126-destroying-asteroids](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3312-sorted-gcd-pair-queries) |
@@ -638,18 +642,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -658,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
