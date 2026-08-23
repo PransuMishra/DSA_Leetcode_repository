@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2126-destroying-asteroids) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
