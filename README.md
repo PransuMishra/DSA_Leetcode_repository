@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1872-stone-game-viii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1872-stone-game-viii) |
 | [2249-count-the-hidden-sequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2249-count-the-hidden-sequences) |
 | [2574-left-and-right-sum-differences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3312-sorted-gcd-pair-queries) |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -668,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -675,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
