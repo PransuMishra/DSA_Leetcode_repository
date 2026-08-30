@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2126-destroying-asteroids](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
