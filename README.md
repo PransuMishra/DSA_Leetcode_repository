@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0168-excel-sheet-column-title) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0788-rotated-digits) |
