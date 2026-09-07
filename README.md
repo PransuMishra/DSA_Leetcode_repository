@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0171-excel-sheet-column-number) |
 | [0796-rotate-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0940-distinct-subsequences-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1189-maximum-number-of-balloons) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1340-jump-game-v) |
