@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1646-kth-missing-positive-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1646-kth-missing-positive-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0792-binary-search) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1646-kth-missing-positive-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1646-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1500-count-largest-group](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1500-count-largest-group) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
