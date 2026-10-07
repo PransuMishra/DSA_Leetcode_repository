@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0171-excel-sheet-column-number) |
+| [0301-remove-invalid-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0856-score-of-parentheses) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0301-remove-invalid-parentheses) |
 | [1306-jump-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
