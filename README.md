@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2032-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3172-divisible-and-non-divisible-sums-difference) |
