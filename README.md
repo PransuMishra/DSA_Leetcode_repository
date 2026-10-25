@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0877-stone-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1031-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1293-three-consecutive-odds) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1861-rotating-the-box) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -786,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2685-count-the-number-of-complete-components) |
