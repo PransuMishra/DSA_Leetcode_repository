@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1301-number-of-paths-with-max-score) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2029-stone-game-ix) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1914-cyclically-rotating-a-grid) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -835,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PransuMishra/DSA_Leetcode_repository/tree/master/2685-count-the-number-of-complete-components) |
